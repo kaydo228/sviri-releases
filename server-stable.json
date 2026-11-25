@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "previous": null,
+  "size": 1057348,
+  "sha256": "4e9f0b679662c45950137780615dfefc2c705e9e1186a9ed6516f018b29aca0d",
+  "purpose": "sweetie-voice-server-update",
+  "schema": 1,
+  "platform": "ubuntu-24.04-x64",
+  "signature": "aX1uR3QKwtJSi+ls7+kG60MeLaO/yDTLvkExr12FH2QBqMRwxsHq1UshTKyz9V9TIyHJRN1Z7zPqddyDj9FdDQ=="
+}
